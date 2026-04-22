@@ -1,0 +1,6 @@
+{
+  "name": "Lumina AI",
+  "description": "An immersive, AI-powered creative suite for text, image generation, and intelligent editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["image-generation", "text-generation"]
+}
